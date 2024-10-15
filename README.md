@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geeburan
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on making projeck
+- 💞️ I’m looking to collaborate on making project
 - 📫 How to reach me instagram @geeburan
 
 <!---
